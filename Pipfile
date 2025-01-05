@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+matplotlib = "*"
+torch = "*"
+ultralytics = "*"
+numpy = "<2"
+onnx = "==1.14.1"
+onnxruntime = "==1.16"
+netron = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"
