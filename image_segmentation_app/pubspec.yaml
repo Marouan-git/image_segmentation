@@ -64,7 +64,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/models/yolo11n-seg.onnx
+    - assets/models/yolo11n-seg-quantized.onnx
 
   # To add assets to your application, add an assets section, like this:
   # assets:
