@@ -19,7 +19,7 @@ Install pipenv if not already installed:
 pip install pipenv
 ```
 
-Install the virtual environment:
+Install the virtual environment (dependencies are listed in the Pipfile and the Pipfile.lock):
 ```
 pipenv install
 ```
