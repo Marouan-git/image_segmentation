@@ -5,6 +5,8 @@ The purpose of this project is to provide an introduction to image segmentation.
 2. A notebook with a real time image segmentation and quantization implemented using a pretrained [YOLOv11 model](https://docs.ultralytics.com/models/yolo11/#overview) from [Ultralytics](https://docs.ultralytics.com/) : [realtime_segmentation.ipynb](./realtime_segmentation.ipynb).
 3. A Flutter mobile application which uses a YOLOv11 model for real time image segmentation: [image_segmentation_app](./image_segmentation_app/).
 
+The [calibration_img folder](./calibration_img/) contains images used for static quantization.
+
 ## Install the environment for the notebooks
 
 First clone the project:
